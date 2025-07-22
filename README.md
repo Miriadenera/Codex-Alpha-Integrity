@@ -1409,7 +1409,7 @@ This demonstrates March 2025 had:
 
 **Quantum operators $\hat{T}_{\mu\nu}$, functionals $\mathcal{K}$, projections, bra-ket notation $\ket{0}$, $\ket{1}$, and operator mappings $\mathcal{T}_V$ were explicitly present in Codex Alpha v1.1 from March 6, 2025, three months and thirteen days BEFORE GENESIS was published.**
 
-🛡️ COUNTER-ACCUSATION: "Added tabular classifications of exotic elements (E01–E28)" - COMPLETELY FALSE (https://github.com/AnnaMariaDebniakSorensen/GENESIS-Plagiarism-Archive/tree/main/Davide_Cadelano#7-added-tabular-classifications-of-exotic-elements-e01e28)
+🛡️ COUNTER-ACCUSATION: "Added tabular classifications of exotic elements (E01–E28)" - COMPLETELY FALSE 
 
 📌 GENESIS CREATOR'S ACCUSATION
 
@@ -1573,7 +1573,7 @@ This shows March 2025 had:
 
 **The complete Exotic Table with all 28 elements E01-E28, including Syntopic Stabilizer (E28) and Biphonon Band (E24), was explicitly present in Codex Alpha v1.1 from March 6, 2025, three months and thirteen days BEFORE GENESIS was published.**
 
-🛡️ FINAL COUNTER-ACCUSATION: "General Conclusion" - COMPLETELY FALSE AND DEFAMATORY (https://github.com/AnnaMariaDebniakSorensen/GENESIS-Plagiarism-Archive/tree/main/Davide_Cadelano#-general-conclusion)
+🛡️ FINAL COUNTER-ACCUSATION: "General Conclusion" - COMPLETELY FALSE AND DEFAMATORY 
 
 📌 GENESIS CREATOR'S GENERAL CONCLUSION
 
@@ -1748,7 +1748,7 @@ u^\mu = \frac{\nabla^\mu \mathcal{K}}{\left\| \nabla^\mu \mathcal{K} \right\|}
 
 **The truth is documented, the evidence is irrefutable, and justice demands immediate corrective action.**
 
-🛡️ COUNTER-ACCUSATION: "Public Acknowledgement of GENESIS" - THIS EVIDENCE PROVES DAVIDE'S COMPLETE INNOCENCE (https://github.com/AnnaMariaDebniakSorensen/GENESIS-Plagiarism-Archive/tree/main/Davide_Cadelano#-appendix-b-final-confirmation--public-acknowledgement-of-genesis)
+🛡️ COUNTER-ACCUSATION: "Public Acknowledgement of GENESIS" - THIS EVIDENCE PROVES DAVIDE'S COMPLETE INNOCENCE 
 
 📌 GENESIS CREATOR'S ACCUSATION
 
